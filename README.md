@@ -1,6 +1,4 @@
 # science_gist_notebooks
-possibly blog-worthy observations about NLP/machine learning, etc.
-
 
 This repository contains a random collection of Jupyter notebooks illustrating some tidbits about natural language processing, machine learning, and text analysis.
 
